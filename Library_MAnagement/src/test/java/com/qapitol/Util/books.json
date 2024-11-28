@@ -1,0 +1,6 @@
+[ {
+  "bookID" : 1,
+  "subject" : "java",
+  "bookCount" : 20,
+  "borrowers" : [ ]
+} ]
